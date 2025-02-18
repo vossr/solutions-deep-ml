@@ -13,8 +13,8 @@
 | 7   | Matrix transformation |
 | 8   | Matrix inverse |
 | 9   | Matrix times matrix |
-| 11  | Linear equations using Jacobian |
-| 12  | Matrix SVD using Jacobian |
+| 11  | Linear systems using Jacobi method |
+| 12  | Matrix SVD using direct method |
 | 13  | Matrix determinant Laplace expansion |
 | 27  | Transformation matrix from basis to another basis |
 | 28  | Matrix SVD using eigen vectors |
