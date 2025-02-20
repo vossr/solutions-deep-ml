@@ -1,5 +1,23 @@
 # Solutions for Deep-ML
 
+### Activation functions
+
+| ID | Title |
+|-|-|
+| 22  | Sigmoid |
+| 23  | Softmax |
+| 39  | Log Softmax |
+| 42  | ReLU |
+| 44  | Leaky ReLU |
+| 96  | Hard Sigmoid |
+| 97  | ELU |
+| 98  | PReLU |
+| 99  | Softplus |
+| 100 | Softsign |
+| 102 | Swish |
+| 103 | SELU |
+
+
 ### Linear algebra
 
 | ID | Title |
