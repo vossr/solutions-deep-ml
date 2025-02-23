@@ -5,6 +5,7 @@
 | ID | Title |
 |-|-|
 | 22  | Sigmoid |
+| 222 | tanh |
 | 23  | Softmax |
 | 39  | Log Softmax |
 | 42  | ReLU |
@@ -16,6 +17,28 @@
 | 100 | Softsign |
 | 102 | Swish |
 | 103 | SELU |
+
+
+### Deep learning
+
+| ID | Title |
+|-|-|
+| 24 | Single neuron |
+| 25 | Single neuron with backpropagation |
+| 26 | Autograd operations |
+| 40 | Dense layer |
+| 41 | Convolutional 2D layer |
+| 87 | Adam (Adaptive Moment Estimation) optimizer single step |
+| 49 | Adam optimization to minimize an objective function |
+| 89 | Self-Attention simplified (Pattern Weaver's code) |
+| 53 | Self-Attention mechanism |
+| 54 | RNN (Recurrent neural networks) |
+| 62 | RNN backpropagation |
+| 56 | KL Divergence between two normal distributions |
+| 59 | LSTM (Long Short-Term Memory) network |
+| 85 | Positional encoding calculator |
+| 94 | Multi-Head attention |
+| 107 | Masked self-attention |
 
 
 ### Linear algebra
