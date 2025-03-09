@@ -26,5 +26,4 @@ W_v = np.array([[1, 2], [3, 4]])
 
 Q, K, V = compute_qkv(X, W_q, W_k, W_v)
 output = self_attention(Q, K, V)
-
 print(output)
